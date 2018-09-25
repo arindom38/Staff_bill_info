@@ -12,4 +12,4 @@ Its an web based project.In this projct table can be created by a single UI comm
 
 # Running requiremnt tools
 Xampp >> 1. Apache server 2. Mysql server
-Any browser
+,Any browser
