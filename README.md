@@ -1,8 +1,8 @@
 # Staff_bill_info
-Its an web based project.In this projct table can be created by a single UI command.Possible to add, remove or change row.Each content of table cell correspond to a staff (EX: Teacher) of any organization. I made this project for my university teacher billing information. it also provides a way to save the genrated table in printable form.
+The projects includes a webpage where there are options for generating table (as chosen by category), Inserting, Deleting, updating any records with a print option. The project includes basic php, jquery, mysql, HTML, Bootstrap, AJAX. 
 
 # language used
-,php
+php
 ,mysql
 ,jquery
 ,javascript
